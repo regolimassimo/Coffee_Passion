@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item/>
+        <item>Decaffeinato</item>
+        <item>Ginseng</item>
+        <item>Orzo</item>
+    </string-array>
+    <string-array name="correction">
+        <item/>
+        <item>Whisky</item>
+        <item>Grappa</item>
+        <item>Amaro</item>
+        <item>Sambuca</item>
+        <item>Cognac</item>
+    </string-array>
+    <string-array name="sugar">
+        <item/>
+        <item>1 tea spoon</item>
+        <item>2 tea spoons</item>
+        <item>3 tea spoons </item>
+        <item>4 tea spoons</item>
+    </string-array>
+    <string-array name="addon">
+        <item/>
+        <item>Macchiato Caldo</item>
+        <item>Macchiato Freddo</item>
+        <item>Corretto</item>
+    </string-array>
+    <string-array name="size">
+        <item/>
+        <item>Lungo</item>
+        <item>Ristretto</item>
+        <item>Doppio</item>
+    </string-array>
+    <string-array name="temp">
+        <item/>
+        <item>Freddo</item>
+    </string-array>
+</resources>
